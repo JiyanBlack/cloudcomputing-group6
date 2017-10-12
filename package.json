@@ -1,0 +1,19 @@
+{
+  "name": "opsworks",
+  "version": "1.0.0",
+  "description": "inclass presentations/lab materials",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiyanBlack/cloudcomputing-group6.git"
+  },
+  "author": "Yan Ji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiyanBlack/cloudcomputing-group6/issues"
+  },
+  "homepage": "https://github.com/JiyanBlack/cloudcomputing-group6#readme"
+}
